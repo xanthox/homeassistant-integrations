@@ -1,0 +1,11 @@
+{
+  "domain": "enexis_outage",
+  "name": "Enexis Outage Status",
+  "documentation": "https://github.com/username/enexis_outage",
+  "dependencies": [],
+  "codeowners": ["@yourusername"],
+  "requirements": ["beautifulsoup4==4.12.2"],
+  "iot_class": "cloud_polling",
+  "version": "0.1.0",
+  "config_flow": true
+}
